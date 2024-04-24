@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Panuvit Pratumrat</h1>
-<h3 align="center">As a college student at Chiang Mai University, I am earnestly embarking on my journey into the field of backend development with a committed demeanor.</h3>
+<h3 align="center">As a Computer Science college student at Chiang Mai University, I am earnestly embarking on my journey into the field of backend development with a committed demeanor.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panuvitpnv&label=Profile%20views&color=0e75b6&style=flat" alt="panuvitpnv" /> </p>
 
