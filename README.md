@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Echo (Golang framework)**
 
-- 📫 How to reach me **panuvit.contact@gmail.com**
+- 📫 How to reach me **panuvitpratumrat@gmail.com**
 
 - ⚡ Fun fact **I'm sleepless person.**
 
